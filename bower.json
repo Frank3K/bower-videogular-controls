@@ -1,7 +1,7 @@
 {
   "name": "videogular-controls",
-  "version": "0.7.2",
-  "main": "./controls.js",
+  "version": "1.2.6",
+  "main": "./vg-controls.js",
   "dependencies": {
     "videogular": "Frank3K/bower-videogular#angularjs-14"
   }
