@@ -3,6 +3,6 @@
   "version": "0.7.2",
   "main": "./controls.js",
   "dependencies": {
-    "videogular": "master"
+    "videogular": "Frank3K/bower-videogular#angularjs-14"
   }
 }
